@@ -7,4 +7,4 @@ citation: '<b>Deng, Shiguang</b>, and Krishnan Suresh. "Multi-constrained topolo
 ---
 Abstract: The objective of this paper is to introduce and demonstrate a robust method for constrained multi-load topology optimization. The method is derived by combining the topological level-set with the classic augmented Lagrangian formulation. The primary advantages of the proposed method are: (1) it rests on well-established augmented Lagrangian formulation for constrained optimization, (2) the augmented topological level-set can be derived systematically for an arbitrary set of loads and constraints, and (3) the level-set can be updated efficiently. The method is illustrated through numerical experiments. 
 
-A copy of the full paper can be downloaded [here]. (/files/J1-2015-SMO.pdf)
+A copy of the full paper can be downloaded [here](/files/J1-2015-SMO.pdf).
