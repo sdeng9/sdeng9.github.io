@@ -1,10 +1,10 @@
 ---
-title: "Multi-constrained topology optimization via the topological sensitivity 12"
+title: "Multi-constrained topology optimization via the topological sensitivity 13"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2015-11-26
 venue: 'Structural and Multidisciplinary Optimization'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://sdeng9.github.io/files/paper2.pdf'
 citation: '<b>Deng, Shiguang</b>, and Krishnan Suresh. "Multi-constrained topology optimization via the topological sensitivity." Structural and Multidisciplinary Optimization 51 (2015): 987-1001.'
 ---
 Abstract: The objective of this paper is to introduce and demonstrate a robust method for constrained multi-load topology optimization. The method is derived by combining the topological level-set with the classic augmented Lagrangian formulation. The primary advantages of the proposed method are: (1) it rests on well-established augmented Lagrangian formulation for constrained optimization, (2) the augmented topological level-set can be derived systematically for an arbitrary set of loads and constraints, and (3) the level-set can be updated efficiently. The method is illustrated through numerical experiments.
@@ -13,4 +13,4 @@ Abstract: The objective of this paper is to introduce and demonstrate a robust m
 
 If the embedded PDF below does not load, you can download my CV [here](/files/ShiguangDeng_CV.pdf).
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://sdeng9.github.io/files/paper2.pdf)
