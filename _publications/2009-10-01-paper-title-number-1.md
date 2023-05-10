@@ -11,3 +11,5 @@ Abstract: The objective of this paper is to introduce and demonstrate a robust m
 [PDF](/files/J1-2015-SMO.pdf).
 
 If the embedded PDF below does not load, you can download my CV [here](/files/ShiguangDeng_CV.pdf).
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
