@@ -1,5 +1,5 @@
 ---
-title: "Multi-constrained topology optimization via the topological sensitivity 3"
+title: "Multi-constrained topology optimization via the topological sensitivity 4"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2014-11-26
@@ -8,6 +8,3 @@ authors: 'Jian Luo, <b>Wei Chen</b>, Gen Fu'
 abstract: "Abstract here Bam!"
 citation: 'Deng, Shiguang, and Krishnan Suresh. "Multi-constrained topology optimization via the topological sensitivity." Structural and Multidisciplinary Optimization 51 (2015): 987-1001..'
 ---
-Abstract here here
-
-[Download paper here](http://academicpages.github.io/files/J1_2015_SMO.pdf)
