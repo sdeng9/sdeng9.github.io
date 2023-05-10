@@ -1,5 +1,5 @@
 ---
-title: "Multi-constrained topology optimization via the topological sensitivity"
+title: "Multi-constrained topology optimization via the topological sensitivity 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2014-11-26
