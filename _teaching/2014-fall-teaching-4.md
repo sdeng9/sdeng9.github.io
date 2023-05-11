@@ -1,7 +1,7 @@
 ---
-title: "Optimum Design of Mechanical Elements and Systems (ME 748)"
+title: "Optimum Design of Mechanical Elements and Systems"
 collection: teaching
-type: "Graduate course"
+type: "ME 748"
 permalink: /teaching/2014-fall-teaching-4
 venue: "University of Wisconsin, Mechanical Engineering Department"
 date: 2014-09-01
