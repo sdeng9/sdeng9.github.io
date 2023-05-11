@@ -1,7 +1,7 @@
 ---
-title: "Introduction to Solid Mechanics (ME 5000)"
+title: "Introduction to Solid Mechanics"
 collection: teaching
-type: "Graduate course"
+type: "ME 5000"
 permalink: /teaching/2009-fall-teaching-1
 venue: "University of Wyoming, Mechanical Engineering Department"
 date: 2009-09-01
