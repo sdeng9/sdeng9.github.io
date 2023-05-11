@@ -9,7 +9,7 @@ location: "Laramie, WY"
 ---
 
 I was a graduate teaching assistant to Professor Dennis Coon for this undergraduate level course ME 3450 (Spring 2010) 
-at the Mechanical Engineering Department of University of Wyoming.
+at the University of Wyoming.
 The course introduces the fundamental principles and techniques involved in the manufacturing of composite materials. 
 It provides a comprehensive overview of the processes and technologies used in the production of composite components, 
 with an emphasis on practical applications and hands-on experience.
