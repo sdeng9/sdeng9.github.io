@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Wyoming, Mechanical Engineering Department"
-date: 2015-01-01
+date: 2009-09-01
 location: "Laramie, WY"
 ---
 
