@@ -1,7 +1,7 @@
 ---
-title: "Advanced Finite Element Analysis (ME 5475)"
+title: "Advanced Finite Element Analysis"
 collection: teaching
-type: "Graduate course"
+type: "ME 5475"
 permalink: /teaching/2010-fall-teaching-3
 venue: "University of Wyoming, Mechanical Engineering Department"
 date: 2010-09-01
