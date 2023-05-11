@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Solid Mechanics (ME 5000)"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Wyoming, Mechanical Engineering Department"
+date: Fall semester, 2012
+location: "Laramie, WY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience.
 
 Heading 1
 ======
