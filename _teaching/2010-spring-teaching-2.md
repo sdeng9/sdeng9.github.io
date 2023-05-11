@@ -8,9 +8,9 @@ date: 2010-01-01
 location: "Laramie, WY"
 ---
 
-This is a description of a teaching experience.
 
-Heading 1
+
+Heading 1 This is a description of a teaching experience.
 ======
 
 Heading 2
