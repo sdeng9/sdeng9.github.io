@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shiguang Deng"
-  avatar           : "bio-photo.jpg" # in images folder
+  avatar           : "profile-1.jpg" # in images folder
   bio              : "Postdoctoral researcher at Northwestern University"
   location         : "Evanston, IL"
   employer         :
