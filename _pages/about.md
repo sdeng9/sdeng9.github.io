@@ -12,7 +12,7 @@ Bam Test! An older version of this template powers my own personal website at
 
 [stuartgeiger.com](http://stuartgeiger.com)
 
-About my work
+My work
 ======
 Research overview
 
