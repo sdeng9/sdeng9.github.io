@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Bam Test! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com)
+Bam Test! An older version of this template powers my own personal website at 
 
-My work
+[stuartgeiger.com](http://stuartgeiger.com)
+
+About my work
 ======
 Research overview
 
 
-Recent news
+News
 ======
 1. news one
 1. news two
 
-Site-wide configuration
-------
-SubSection
 
