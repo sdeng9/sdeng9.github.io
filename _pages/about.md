@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page. I am Shiguang. I am currently an associate researcher (postdoc) at the Northwestern University, working with Prof. [Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) and Prof. [Horacio D. Espinosa](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/espinosa-horacio.html) starting from 2023. My overarching research objective is to develop process-aware and information-theoretic design-analysis frameworks for advanced manufacturing material-structure systems.
+Welcome to my page. I am Shiguang. I am currently an associate researcher (postdoc) at the Northwestern University, working with Prof. [Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) and Prof. [Horacio D. Espinosa](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/espinosa-horacio.html) starting from 2023. My overarching research objective is to develop process-aware and information-theoretic design-analysis-manufacturing frameworks for multiscale material-structure systems.
 
 I am broadly interested in interdisciplinary engineering applications at the frontiers of predictive science, scientific machine learning, design optimization and computational mechanics, including **topology optimization**, **reduced-order model**, **data-driven design**, **data assimilation**, and **physics-informed deep learning**.
 My research focuses on questions such as:
 
 * How to address computational bottlenecks in large-scale design and analysis?
 * How to account for multiple performance and manuf. constraints in design optimization?
-* How
 * How
 
 Experience
