@@ -4,9 +4,10 @@ collection: publications
 permalink: /publication/C5-2022-IDETC
 venue: 'Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC-CIE2022'
 date: 2022-08-14
-citation: '<b>Deng, Shiguang</b>, Carlos Mora, Diran Apelian, Ramin Bostanabad. "Multi-Fidelity Reduced Order Models for Multiscale Damage Analyses with Automatic Calibration." <i>Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC-CIE2022</i> August 14-17, 2022, St. Louis, Missouri.' 
+citation: '<b>Deng, Shiguang</b>, Carlos Mora, Diran Apelian, Ramin Bostanabad. <i>Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC-CIE2022</i> August 14-17, 2022, St. Louis, Missouri.'
+category: 'conference'
 ---
-Abstract: Predicting the fracture behavior of macroscale components
+Abstract: _Predicting the fracture behavior of macroscale components
 containing microscopic porosity relies on multiscale damage
 models which typically ignore the manufacturing-induced
 spatial variabilities in porosity. This simplification is made due
@@ -24,6 +25,6 @@ to inversely estimate the damage parameters of an ROM as a
 function of microstructure and clustering level such that the
 ROM faithfully surrogates DNS. We demonstrate the application
 of our framework in predicting the damage behavior of a
-multiscale metallic component with spatially varying porosity.
+multiscale metallic component with spatially varying porosity._
 
 A copy of the full paper can be downloaded [here](/files/C5-2022-IDETC.pdf).
