@@ -44,20 +44,22 @@
       <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
 
       <!-- paper weblink -->
-      {% if post.link %}
+      <!-- {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      {% endif %}
+      {% endif %} -->
 
       <!-- paper pdf -->
-      {% if post.paperurl %}
+      <!-- {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
+      {% endif %} -->
 
-      <!-- paper author list, publisher and date -->
-      <p>{{ post.authors }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }} </p>
+      <!-- paper author list, publisher, date and pdf -->
+      <p>{{ post.authors }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }}
+        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </p>
 
       <!-- hide abstract -->
-      {% if post.abstract %}
+      <!-- {% if post.abstract %}
         <details><summary>Abstract</summary>
         <blockquote>
         <p>
@@ -65,7 +67,7 @@
         </p>
         </blockquote>
         </details>
-      {% endif %}
+      {% endif %} -->
 
     {% elsif post.date %}
      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
