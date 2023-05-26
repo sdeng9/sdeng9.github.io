@@ -2,9 +2,9 @@
 title: "Multi-Fidelity Reduced Order Models for Multiscale Damage Analyses with Automatic Calibration"
 collection: publications
 permalink: /publication/C5-2022-IDETC
-venue: 'Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC-CIE2022'
+venue: 'Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 3B: 48th Design Automation Conference'
 date: 2022-08-14
-citation: '<b>Deng, Shiguang</b>, Carlos Mora, Diran Apelian, Ramin Bostanabad. <i>Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC-CIE2022</i> August 14-17, 2022, St. Louis, Missouri.'
+citation: '<b>Deng, Shiguang</b>, Carlos Mora, Diran Apelian, Ramin Bostanabad. <i>Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 3B: 48th Design Automation Conference</i> August 14-17, 2022, St. Louis, Missouri.'
 authors: '<b>Deng, Shiguang</b>, Carlos Mora, Diran Apelian, Ramin Bostanabad'
 category: 'conference'
 paperurl: '/files/C5-2022-IDETC.pdf'
