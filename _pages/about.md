@@ -1,29 +1,33 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Shiguang Deng testtesttest is a postdoctoral researcher at the Department of Mechanical and Aerospace Engineering at 
-the University of California Irvine since 2019. His research interests are computational mechanics and 
-design optimization of engineered materials in multiscale and multi-physics systems. He received his Ph.D. 
-in mechanical engineering at the University of Wisconsin Madison in 2016 and worked as a research engineer at 
-the MSC Nastran between 2016 and 2019.
+Welcome to my page. I am Shiguang. I am currently an associate researcher (postdoc) at the Northwestern University, working with Prof. [Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) and Prof. [Horacio D. Espinosa](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/espinosa-horacio.html) starting from 2023. My overarching research objective is to develop process-aware and information-theoretic design-analysis frameworks for advanced manufacturing material-structure systems.
 
-[stuartgeiger.com](http://stuartgeiger.com)
+I am broadly interested in interdisciplinary engineering applications at the frontiers of predictive science, scientific machine learning, design optimization and computational mechanics, including **topology optimization**, **reduced-order model**, **data-driven design**, **data assimilation**, and **physics-informed deep learning**.
+My research focuses on questions such as:
 
-My work
+* How to address computational bottlenecks in large-scale design and analysis?
+* How to account for multiple performance and manuf. constraints in design optimization?
+* How
+* How
+
+Experience
 ======
-Research overview
-
+* In 2016, I received my Ph.D in Mechanical Engineering from the University of Wisconsin Madison.
+I was supervised by Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan/) and my thesis was focus on the augmented topological level-set methods for large-scale thermo-elastic topology optimization.
+* From 2016 to 2019, I worked for the design optimization team at the MSC [NASTRAN](https://hexagon.com/products/product-groups/computer-aided-engineering-software/msc-nastran) as a R&D engineer to design, develop, test and maintain the topology optimization engine on the MSC APEX generative design platform.
+* From 2019 to 2022, I collaborated with Prof. [Diran Apelian](https://engineering.uci.edu/users/diran-apelian) and Prof. [Ramin Bostanabad](https://engineering.uci.edu/users/ramin-bostanabad) as a postdoctoral researcher at the University of California Irvine.
+I led the project of data-driven analysis modeling for the multiscale metallic alloys with tomography-infused manufacturing-induced porosity distribution.
 
 News
 ======
-1. news one
-1. news two
-
-
+* Sep. 24, 2023: I serve as a minisymposium organizer for the [IACM-MMLDE-CSET2023](https://www.utep.edu/engineering/mmlde/) Conference at the University of Texas At El Paso.
+* Mar. 28, 2023, our paper of ["Adaptive Spatiotemporal Dimension Reduction in Concurrent Multiscale Damage Analysis"](https://link.springer.com/article/10.1007/s00466-023-02299-7) is published by the _Journal of Computational Mechanics_.
+* Jan. 01., 2023, our paper of ["Data-Driven Calibration of Multifidelity Multiscale Fracture Models via Latent Map Gaussian Process"](https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/1/011705/1147508/Data-Driven-Calibration-of-Multifidelity) is published by the _Journal of Mechanical Design_.
