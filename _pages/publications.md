@@ -11,6 +11,20 @@ author_profile: true
 
 {% include base_path %}
 
+## Journal Articles
+---
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.category == 'journal' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Peer Reviewed Conference Articles
+---
+
+{% for post in site.publications reversed %}
+  {% if post.category == 'conference' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
