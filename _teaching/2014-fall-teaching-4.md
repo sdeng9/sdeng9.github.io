@@ -8,11 +8,11 @@ date: 2014-09-01
 location: "Madison, WI"
 ---
 
-I was a graduate student instructor to Professor Krishnan Suresh for this graduate level course ME 748 (Fall 2014) 
+I was a graduate student instructor to Professor Krishnan Suresh for this graduate level course ME 748 (Fall 2014)
 at the University of Wisconsin.
-focuses on the principles and methodologies for optimizing the design of mechanical components and systems. 
-This course explores advanced techniques in design optimization, mathematical modeling, and multi-objective 
-optimization to achieve improved performance, efficiency, and reliability of mechanical systems. 
+This course focuses on the principles and methodologies for optimizing the design of mechanical components and systems.
+It explores advanced techniques in design optimization, mathematical modeling, and multi-objective 
+optimization to achieve improved performance, efficiency, and reliability of mechanical systems.
 Special topics include size, shape and topology optimization for structure mechanics.
 This course enables students to develop a solid understanding of design optimization principles,
 mathematical modeling and basic programming tools using MATLAB.
