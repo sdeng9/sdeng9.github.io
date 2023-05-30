@@ -1,7 +1,21 @@
 ---
-title: "Research item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research Thrust 1: Reduce-Order Multiscale Materials Modeling "
+excerpt: "Significant advancements have been achieved in microstructural modeling to account for manufacturing-induced material local morphology. However, the practical application of these microscale simulations in real-world design has been limited due to their high computational costs and prohibitive memory footprints.
+
+
+To overcome this challenge, we develop reduced-order models (ROMs) that approximate computationally intensive simulations with far fewer resources by projecting solution variables into a lower dimension space with spatiotemporal reductions. By integrating ROMs into a concurrent multiscale modeling framework, our reduced-order system efficiently quantifies the impacts of spatially varying microstructures on complex component behaviors, e.g., elasto-plasticity and fracture, which enables low-cost design applications.
+
+<br/><img src='/images/500x300.png' align='middle'
+style='width:900px;height:400px;margin-top:15px;margin-left:0px;margin-right:30px;'>
+"
 collection: portfolio
 ---
+<!-- <img src='/images/500x300.png' style='width:300px;height:300px;margin-right:15px;float:left'> -->
+<!-- Design Sensitivity for CAD Defeaturing Estimation -->
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+Related Papers
+------
+* **Shiguang Deng**, Diran Apelian, and Ramin Bostanabad. "Adaptive spatiotemporal dimension reduction in concurrent multiscale damage analysis." _Computational Mechanics_ 72 (2023): 3-35.
+* **Shiguang Deng**, Carl Soderhjelm, Diran Apelian, and Ramin Bostanabad. "Reduced-order multiscale modeling of plastic deformations in 3D alloys with spatially varying porosity by deflated clustering analysis." _Computational Mechanics_ 70 (2022): 517-548.
+* **Shiguang Deng**, Carl Soderhjelm, Diran Apelian, and Krishnan Suresh. "Second-order defeaturing estimator of manufacturing-induced porosity on structural elasticity." _International Journal of Numerical Methods in Engineering_ 123.19 (2022): 4483-4517.
+* **Shiguang Deng**, Carl Soderhjelm, Diran Apelian, and Krishnan Suresh. "Estimation of elastic behaviors of metal components containing process induced porosity." _Computers & Structures_ 254 (2021): 106558.
