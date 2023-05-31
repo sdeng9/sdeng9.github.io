@@ -5,8 +5,8 @@ excerpt: "Significant advancements have been achieved in microstructural modelin
 
 To overcome this challenge, we develop reduced-order models (ROMs) that approximate computationally intensive simulations with far fewer resources by projecting solution variables into a lower dimension space with spatiotemporal reductions. By integrating ROMs into a concurrent multiscale modeling framework, our reduced-order system efficiently quantifies the impacts of spatially varying microstructures on complex component behaviors, e.g., elasto-plasticity and fracture, which enables low-cost design applications.
 
-<br/><img src='/images/500x300.png' align='middle'
-style='width:900px;height:400px;margin-top:15px;margin-left:0px;margin-right:30px;'>
+<br/><img src='/images/research_2.jpg' align='middle'
+style='width:800px;height:450px;margin-top:15px;margin-left:60px;margin-right:30px;'>
 "
 collection: portfolio
 ---
