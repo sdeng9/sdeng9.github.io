@@ -5,13 +5,13 @@ permalink: /portfolio/
 author_profile: true
 ---
 The mission of my research is to design next-generation multiscale and multifunctional material-structure systems by elucidating processing-structure-performance (PSP) links.
-Based on the PSP links, my interdisciplinary work interfaces multiple domains across design optimization, computational mechanics, advanced manufacturing, machine learning and material science.
+Based on the PSP links, my interdisciplinary work interfaces multiple domains across design optimization, computational mechanics, advanced manufacturing, machine learning and material science, such as **topology optimization**, **reduced-order model**, **microstructure reconstruction**, **data-driven design**, **data assimilation**, and **physics-constrained deep learning**.
 
 
-My research focuses on fundamental research questions including:
-(_i_) As process-induced defects are inevitable during manufacturing, how do different types of defects affect material microstructures?
-(_ii_) Since microscale defects are spatially varying on components, how to statistically represent the random defects in microstructures?
-(_iii_) What are the computational bottlenecks of microstructural analysis, and how to efficiently compute the deformation mechanisms for certain type of microstructures?
+Some of fundamental research questions that my research focuses on are:
+(_i_) As process-induced defects are inevitable during manufacturing, how do different types of defects affect material mechanics?
+(_ii_) Considering that microscale defects are spatially varying on components, how to statistically represent the random defects by microstructures?
+(_iii_) What are the computational bottlenecks of multiscale analysis, and how to efficiently compute the deformation mechanisms for certain type of microstructures?
 (_ⅳ_) How can we address data-centric challenges for designing metamaterials-based microstructures, such as lack of data, data reliance and data assimilation?
 (_ⅴ_) How to incorporate different types of performance and processing constraints in topology optimization for advanced manufacturing?
 <br/><img src='/images/research_1.jpg'>
