@@ -7,11 +7,12 @@ Multiphysics TO requires solving coupled multiphysics governing equations with v
 TO faces theoretical challenges when solving design problems subject to multiple, various, and conflicting constraints. In this line of research, we combine the topological level-set method (i.e., treating topological sensitivity as a level-set) with the augmented Lagrangian method (i.e., quantifying active and inactive constraints via Lagrangian multipliers) to cast classic gradient-based continuous optimization as a discrete TO with clear 0-1 topological definition.
 Our method helps to gain deep insights into high dimensional design space to discover high-value, non-intuitive and manufacturing-feasible designs that would be otherwise difficult, if possible, to obtain through traditional methods.
 
-<br/><img src='/images/research_4.jpg' align='middle'
-style='width:800px;height:450px;margin-top:15px;margin-left:60px;margin-right:30px;'>
+<br/><img src='/images/research_4.jpg'>
 "
 collection: portfolio
 ---
+<!-- <br/><img src='/images/research_4.jpg' align='middle'
+style='width:800px;height:450px;margin-top:15px;margin-left:60px;margin-right:30px;'> -->
 
 Related Papers
 ------
