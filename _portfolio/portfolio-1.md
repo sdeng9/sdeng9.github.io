@@ -1,9 +1,9 @@
 ---
 title: "Research Thrust 1: Reduce-Order Multiscale Materials Modeling "
-excerpt: "Significant advancements have been achieved in microstructural modeling to account for manufacturing-induced material local morphology. However, the practical application of these microscale simulations in real-world design has been limited due to their high computational costs and prohibitive memory footprints.
+excerpt: "Significant advancements have been achieved in microstructural modeling to account for manufacturing-induced material local defects. However, the practical application of these microscale simulations in real-world design has been limited due to their high computational costs and prohibitive memory footprints.
 
 
-To overcome this challenge, we develop reduced-order models (ROMs) that approximate computationally intensive simulations with far fewer resources by projecting solution variables into a lower dimension space with spatiotemporal reductions. By integrating ROMs into a concurrent multiscale modeling framework, our reduced-order system efficiently quantifies the impacts of spatially varying microstructures on complex component behaviors, e.g., elasto-plasticity and fracture, which enables low-cost design applications.
+To overcome this challenge, we develop reduced-order models (ROMs) that approximate computationally intensive simulations with far fewer resources by projecting solution variables into a lower dimension space with spatiotemporal reductions. By integrating ROMs into a concurrent multiscale modeling framework, our reduced-order system efficiently quantifies the impacts of spatially varying heterogeneous microstructures on complex component behaviors, e.g., elasto-plasticity and fracture, which enables low-cost design applications.
 
 <br/><img src='/images/research_2.jpg'>
 "
