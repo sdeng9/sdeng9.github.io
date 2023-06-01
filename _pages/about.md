@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my page. I am Shiguang, a research associate (postdoc) at the Northwestern University working with Prof. [Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) and Prof. [Horacio D. Espinosa](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/espinosa-horacio.html) on data-driven metamaterials design since 2023.
-My overarching research objective is to develop manufacturing-aware and information-theoretic design-analysis frameworks for emerging material systems (e.g., metallic alloys and fiber-reinforced composites). I am broadly interested in interdisciplinary research topics at the frontiers of design optimization, computational mechanics, material informatics, advanced manufacturing, data science, and scientific machine learning.
+My overarching research objective is to develop manufacturing-aware and information-theoretic design frameworks for emerging material systems (e.g., metallic alloys and fiber-reinforced composites). I am broadly interested in interdisciplinary topics at the frontiers of design optimization, computational mechanics, material informatics, advanced manufacturing, data science, and machine learning.
 
 Experience
 ======
@@ -17,7 +17,7 @@ Experience
 I was supervised by Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan/) and my thesis was about augmented topological level-set methods for large-scale thermo-elastic topology optimization.
 * From 2016 to 2019, I was a R&D engineer in the design optimization team of the MSC [NASTRAN](https://hexagon.com/products/product-groups/computer-aided-engineering-software/msc-nastran) to design, develop, test and maintain topology optimization solvers on the generative design platform [APEX](https://hexagon.com/products/msc-apex-generative-design) for additive manufacturing.
 * From 2019 to 2022, I collaborated with Prof. [Diran Apelian](https://engineering.uci.edu/users/diran-apelian) and Prof. [Ramin Bostanabad](https://engineering.uci.edu/users/ramin-bostanabad) as a postdoctoral researcher at the University of California Irvine.
-I led the project of reduced-order and data-driven analysis modeling of multiscale metallic alloys (A356.2) with tomography-infused manufacturing-induced porosity distribution.
+I led the project of reduced-order and data-driven analysis modeling of multiscale metallic alloys with tomography-infused manufacturing-induced porosity distribution.
 
 News
 ======
