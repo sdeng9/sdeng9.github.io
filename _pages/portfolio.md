@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 The mission of my research is to design next-generation multiscale and multifunctional material-structure systems by elucidating processing-structure-performance (PSP) links.
-Based on the PSP links, my interdisciplinary work interfaces multiple domains across design optimization, computational mechanics, advanced manufacturing, machine learning and material science, such as **topology optimization**, **reduced-order model**, **microstructure reconstruction**, **data-driven design**, **data assimilation**, and **physics-constrained deep learning**.
+Based on the PSP links, my interdisciplinary work interfaces multiple domains across design optimization, computational mechanics, advanced manufacturing, machine learning and material science, such as **topology optimization**, **reduced-order model**, **microstructure reconstruction**, **inverse design**, **data assimilation**, and **physics-constrained deep learning**.
 
 
 Some of fundamental research questions that my research focuses on are:
