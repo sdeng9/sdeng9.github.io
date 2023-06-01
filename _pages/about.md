@@ -22,5 +22,5 @@ I led the project of reduced-order and data-driven analysis modeling of multisca
 News
 ======
 * Sep. 24, 2023: I serve as a minisymposium organizer for the [IACM-MMLDE-CSET2023](https://www.utep.edu/engineering/mmlde/) Conference at the University of Texas El Paso.
-* Mar. 28, 2023, our paper of ["Adaptive Spatiotemporal Dimension Reduction in Concurrent Multiscale Damage Analysis"](https://link.springer.com/article/10.1007/s00466-023-02299-7) is published by the _Journal of Computational Mechanics_.
-* Jan. 01, 2023, our paper of ["Data-Driven Calibration of Multifidelity Multiscale Fracture Models via Latent Map Gaussian Process"](https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/1/011705/1147508/Data-Driven-Calibration-of-Multifidelity) is published by the _Journal of Mechanical Design_.
+* Mar. 28, 2023: our paper of ["Adaptive Spatiotemporal Dimension Reduction in Concurrent Multiscale Damage Analysis"](https://link.springer.com/article/10.1007/s00466-023-02299-7) is published by the _Journal of Computational Mechanics_.
+* Jan. 01, 2023: our paper of ["Data-Driven Calibration of Multifidelity Multiscale Fracture Models via Latent Map Gaussian Process"](https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/1/011705/1147508/Data-Driven-Calibration-of-Multifidelity) is published by the _Journal of Mechanical Design_.
