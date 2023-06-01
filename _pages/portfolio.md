@@ -14,8 +14,10 @@ My research focuses on fundamental research questions including:
 (_iii_) What are the computational bottlenecks of microstructural analysis, and how to efficiently compute the deformation mechanisms for certain type of microstructures?
 (_ⅳ_) How can we address data-centric challenges for designing metamaterials-based microstructures, such as lack of data, data reliance and data assimilation?
 (_ⅴ_) How to incorporate different types of performance and processing constraints in topology optimization for advanced manufacturing?
-<br/><img src='/images/research_1.jpg' align='middle'
-style='width:800px;height:450px;margin-top:15px;margin-left:60px;margin-right:30px;'>
+<br/><img src='/images/research_1.jpg'>
+
+<!-- <br/><img src='/images/research_1.jpg' align='middle'
+style='width:800px;height:450px;margin-top:15px;margin-left:60px;margin-right:30px;'> -->
 
 
 
