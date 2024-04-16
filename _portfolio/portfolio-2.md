@@ -16,4 +16,4 @@ style='width:800px;height:450px;margin-top:15px;margin-left:60px;margin-right:30
 Related Papers
 ------
 * **Shiguang Deng**, Carlos Mora, Diran Apelian and Ramin Bostanabad. "Data-driven calibration of multi-fidelity multiscale fracture models via latent map Gaussian process." _Journal of Mechanical Design_ 145.1 (2023): 011705.
-* **Shiguang Deng**, Shirin Hosseinmardi, Diran Apelian and Ramin Bostanabad. "Data-Driven Physics-Constrained Recurrent Neural Networks for Multiscale Damage Modeling of Metallic Alloys with Process-Induced Porosity.", _Computational Mechanics_ (2024), https://doi.org/10.1007/s00466-023-02429-1.
+* **Shiguang Deng**, Shirin Hosseinmardi, Diran Apelian and Ramin Bostanabad. "Data-Driven Physics-Constrained Recurrent Neural Networks for Multiscale Damage Modeling of Metallic Alloys with Process-Induced Porosity." _Computational Mechanics_ (2024), doi.org/10.1007/s00466-023-02429-1.
