@@ -12,6 +12,7 @@ main:
   - title: "Publication"
     url: /Publication/
 
+# fonts should be consistant with *.md file, e.g., 'Publication' is not the same as 'publication'
   - title: "Presentation"
     url: /talks/
 
