@@ -20,7 +20,7 @@ Experience
 * From 2016 to 2019, I was a research engineer in the design optimization team of the MSC [NASTRAN](https://hexagon.com/products/product-groups/computer-aided-engineering-software/msc-nastran) to design, develop, test and maintain topology optimization solvers on the generative design platform [APEX](https://hexagon.com/products/msc-apex-generative-design) for additive manufacturing.
 * In 2016, I received my Ph.D in Mechanical Engineering from the University of Wisconsin Madison.
 I was supervised by Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan/) and my research was about augmented topological level-set methods for large-scale thermo-elastic topology optimization.
-* In 2012, I received my M.Sc from the University of Wyoming where I was advised by Prof. [Mark Garnich](https://scholar.google.com/citations?user=cWBG64UAAAAJ&hl=en) on the dynamic progressive damage modeling of strain-rate effects of fiber-reinforced composites.
+<!-- * In 2012, I received my M.Sc from the University of Wyoming where I was advised by Prof. [Mark Garnich](https://scholar.google.com/citations?user=cWBG64UAAAAJ&hl=en) on the dynamic progressive damage modeling of strain-rate effects of fiber-reinforced composites. -->
 
 
 News
