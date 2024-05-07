@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page. I am an incoming assistant professor and the director of Design Intelligence Laboratory at the Department of Mechanical Engineering at the [University of Kansas](https://me.ku.edu/people/shiguang-deng) starting from Fall 2024.
+Welcome to my page. I am an incoming assistant professor at the Department of Mechanical Engineering at the [University of Kansas](https://me.ku.edu/people/shiguang-deng) starting from Fall 2024.
 
 My research vision is to develop data-driven physics-informed design intelligence for advanced material-structure systems by leveraging artificial intelligence and computational mechanics.
 I am broadly interested in interdisciplinary topics at the frontiers of design optimization, material design, design for manufacturing, solid mechanics, material informatics, and scientific machine learning.
