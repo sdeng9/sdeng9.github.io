@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page. I am an incoming assistant professor at the Department of Mechanical Engineering at the [University of Kansas](https://me.ku.edu/people/shiguang-deng) starting from Fall 2024.
+Welcome to my page. I am an assistant professor at the Department of Mechanical Engineering at the [University of Kansas](https://me.ku.edu/people/shiguang-deng).
 
 My research vision is to develop data-driven physics-informed design intelligence for advanced material-structure systems by leveraging artificial intelligence and computational mechanics.
 I am broadly interested in interdisciplinary topics at the frontiers of design optimization, material design, design for manufacturing, solid mechanics, material informatics, and scientific machine learning.
+
+We are looking for talented students to join our Design Intelligence Laboratory at the University of Kansas. Please check our Openings and send me an email if you are interested in working with me.
 
 Experience
 ======
@@ -25,7 +27,7 @@ I was supervised by Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/f
 
 News
 ======
-* 02/2024: we are looking for talented students to join our Design Intelligence Laboratory at the University of Kansas. Please check our Openings.
+* 08/2024: our Design Intelligence Laboratory at the University of Kansas has now been officially established. Multiple openings are available for graduate students in Spring/Fall 2025.
 * 01/2024: our paper of ["Data-Driven Physics-Constrained Recurrent Neural Networks for Multiscale Damage Modeling of Metallic Alloys with Process-Induced Porosity"](https://link.springer.com/article/10.1007/s00466-023-02429-1) is published by the _Computational Mechanics_.
 * 10/2023: I attended the SES Annual Technical Conference at the University of Minnesota and presented our lastest work on machine learning surrogates of multiscale damage analysis.
 * 09/2023: I serve as a minisymposium organizer for the IACM-MMLDE-CSET2023 Conference at the University of Texas El Paso.
