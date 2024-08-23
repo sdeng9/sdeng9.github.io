@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "University of Wyoming ME 5000: Introduction to Solid Mechanics"
 collection: teaching
 type: "Graduate course"
@@ -10,4 +10,4 @@ location: "Laramie, WY"
 
 I was a graduate teaching assistant to Professor Sukky Jun for this graduate level course ME 5000 at the University of Wyoming.
 Course topics include stress and strain analysis, mechanical properties of materials, energy methods, and a brief introduction to elasticity and plasticity.
-This course serves as a foundation for advanced topics in structural analysis, mechanics of materials, and mechanical design. 
+This course serves as a foundation for advanced topics in structural analysis, mechanics of materials, and mechanical design.  -->
