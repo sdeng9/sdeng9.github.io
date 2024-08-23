@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "University of Wyoming ME 5475: Advanced Finite Element Analysis"
 collection: teaching
 type: "Graduate course"
@@ -12,4 +12,4 @@ I was a graduate teaching assistant to Professor Mark Garnich for this graduate 
 This course builds upon the foundational knowledge of FEA and explores advanced topics in modeling development,
 mesh selection, nonlinear material constitutive modeling, Newton Raphson methods and convergence study.
 Students develop expertise in utilizing FEA to solve complex engineering problems and analyze mechanical systems
-through extensive hands-on projects using commercial FEA software ABAQUS.
+through extensive hands-on projects using commercial FEA software ABAQUS. -->
