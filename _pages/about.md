@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page. I am an assistant professor at the Department of Mechanical Engineering at the [University of Kansas](https://me.ku.edu/people/shiguang-deng).
+Hello, welcome to my page. I am an assistant professor at the Department of Mechanical Engineering and the director of the **Design Intelligence Laboratory** at the [University of Kansas](https://me.ku.edu/people/shiguang-deng).
 
-My research vision is to develop data-driven physics-informed design intelligence for advanced material-structure systems by leveraging artificial intelligence and computational mechanics.
-I am broadly interested in interdisciplinary topics at the frontiers of design optimization, material design, design for manufacturing, solid mechanics, material informatics, and scientific machine learning.
+My **research vision** is to develop data-driven physics-informed design intelligence for advanced material-structure systems by leveraging artificial intelligence and computational mechanics.
+I am broadly interested in interdisciplinary topics at the frontiers of **design automation**, including *design for advanced manufacturing, design of material systems, structural design optimization, data-driven design*, and *mechanics-based design*.
 
-We are looking for talented students to join our Design Intelligence Laboratory at the University of Kansas. Please check our Openings and send me an email if you are interested in working with me.
+We are looking for talented students to join our **Design Intelligence Laboratory** at the University of Kansas. If you are interested in design, optimization, computational mechanics, material science, manufacturing, data science and/or artificial intelligence, please check our [Openings](https://sdeng9.github.io/Openings/) and send me an email at your convenience.
 
 Experience
 ======
@@ -27,7 +27,7 @@ I was supervised by Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/f
 
 News
 ======
-* 08/2024: our Design Intelligence Laboratory at the University of Kansas has now been officially established. Multiple openings are available for graduate students in Spring/Fall 2025.
+* 08/2024: our Design Intelligence Laboratory at the University of Kansas has now been officially established. Multiple openings are currently available for graduate/undergraduate students in Spring/Fall 2025.
 * 01/2024: our paper of ["Data-Driven Physics-Constrained Recurrent Neural Networks for Multiscale Damage Modeling of Metallic Alloys with Process-Induced Porosity"](https://link.springer.com/article/10.1007/s00466-023-02429-1) is published by the _Computational Mechanics_.
 * 10/2023: I attended the SES Annual Technical Conference at the University of Minnesota and presented our lastest work on machine learning surrogates of multiscale damage analysis.
 * 09/2023: I serve as a minisymposium organizer for the IACM-MMLDE-CSET2023 Conference at the University of Texas El Paso.
