@@ -1,5 +1,5 @@
 ---
-title: "ME 790 - Design Optimization for Mechanical System"
+title: "KU ME 790 - Design Optimization for Mechanical System"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-fall-teaching-6
