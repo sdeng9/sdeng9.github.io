@@ -1,5 +1,5 @@
 ---
-title: "KU ME 790 - Design Optimization for Mechanical System"
+title: "KU ME 790 - Design Optimization for Mechanical Systems"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-fall-teaching-6
@@ -14,4 +14,4 @@ location: "Lawrence, KS"
 
 **Time:** 5:00pm – 7:30pm every Thursday
 
-**Classroom:** Learned Hall 3150
+**Classroom:** Learned Hall 3150, Lawrence, KS
