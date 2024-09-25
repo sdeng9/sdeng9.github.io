@@ -1,5 +1,5 @@
 ---
-title: "Research Thrust Two: Design Exploration"
+title: "Research Thrust Two: Design Representation"
 excerpt: "**Data-Driven Surrogate**: While classic mechanistic models (e.g., homogenization-based multiscale FEA models) provide fundamental understanding of continuum mechanics and facilitate material innovation, they are generally too expensive for the design of multiscale material-structure systems (e.g., composites, alloys, hydrogels, or polymers) across spatial-temporal scales in high dimensional design spaces. In this research, by data mining the massive datasets of stochastic microstructures with their associated anisotropic properties, we developed a **physics-informed deep learning surrogate** to efficiently emulate the effective responses of heterogeneous microstructures under irreversible plastic deformation with hardening and softening behaviors. It demonstrated a significant accuracy improvement over pure data-driven ‘black-box’ models and a dramatic efficiency boost of about **four orders of magnitude of acceleration** than FEA.
 
 
