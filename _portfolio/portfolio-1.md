@@ -1,5 +1,5 @@
 ---
-title: "Research Thrust One: Design Representation"
+title: "Research Thrust One: Design Acquisition"
 excerpt: "**Microstructure Reconstruction**: _As process-induced material defects are stochastic and inevitable, how can we efficiently represent them in microstructures?_ To answer this, we applied microstructure reconstruction to characterize tomography-infused material features and build massive datasets of **statistically equivalent feature representations** of the inherent stochasticity. Classic reconstruction approaches often rely on image pixel-based correlation functions which are typically slow and memory intensive. we developed innovative geometric descriptor and spectral density function methods to statistically represent random material features (e.g., morphology, geometry, and composition) with significant dimension reduction, such that the computational time of reconstruction is **reduced from hours to seconds**. Such methods are promising for many applications, e.g., manufacturing defect inspection, material repository development, and experimental data augmentation.
 
 
