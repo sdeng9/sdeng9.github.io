@@ -23,15 +23,3 @@ Experience
 * In 2016, I received my Ph.D in Mechanical Engineering from the University of Wisconsin Madison.
 I was supervised by Prof. [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan/) and my research was about augmented topological level-set methods for large-scale thermo-elastic topology optimization.
 <!-- * In 2012, I received my M.Sc from the University of Wyoming where I was advised by Prof. [Mark Garnich](https://scholar.google.com/citations?user=cWBG64UAAAAJ&hl=en) on the dynamic progressive damage modeling of strain-rate effects of fiber-reinforced composites. -->
-
-
-News
-======
-* 09/2024: I developed a new senior/graduate course *"ME 790: Design Optimization for Mechanical Systems"* at the University of Kansas for the Fall 2024 semester.
-* 08/2024: our Design Intelligence Laboratory at the University of Kansas has now been officially established. Multiple openings are currently available for graduate/undergraduate students in Spring/Fall 2025.
-* 01/2024: our paper of ["Data-Driven Physics-Constrained Recurrent Neural Networks for Multiscale Damage Modeling of Metallic Alloys with Process-Induced Porosity"](https://link.springer.com/article/10.1007/s00466-023-02429-1) is published by the _Computational Mechanics_.
-* 10/2023: I attended the SES Annual Technical Conference at the University of Minnesota and presented our lastest work on machine learning surrogates of multiscale damage analysis.
-* 09/2023: I serve as a minisymposium organizer for the IACM-MMLDE-CSET2023 Conference at the University of Texas El Paso.
-* 07/2023, I give a presentation about our work of scientific machine learning for material mechanics modeling on the Sandia NL's Machine Learning & Deep Learning Workshop
-* 03/2023: our paper of ["Adaptive Spatiotemporal Dimension Reduction in Concurrent Multiscale Damage Analysis"](https://link.springer.com/article/10.1007/s00466-023-02299-7) is published by the _Computational Mechanics_.
-* 01/2023: our paper of ["Data-Driven Calibration of Multifidelity Multiscale Fracture Models via Latent Map Gaussian Process"](https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/1/011705/1147508/Data-Driven-Calibration-of-Multifidelity) is published by the _Journal of Mechanical Design_.
