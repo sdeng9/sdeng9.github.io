@@ -19,8 +19,14 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Team"
+    url: /Team/
+
   - title: "Openings"
     url: /Openings/
+
+  - title: "News"
+    url: /News/
 
   # - title: "Gallery"
   #   url: /Gallery/
