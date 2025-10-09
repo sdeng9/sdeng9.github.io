@@ -31,6 +31,9 @@ co-advised with [Dr. Huazhen Fang](https://www.issl.space/) at Michigan State Un
 * ***Aiden Jacobs***, MSc student, 2025 - Now <br>
 BS, University of Kansas
 
+* ***Morenike Doherty***, MSc student, 2025 - Now <br>
+BS, University of Alabama, Huntsville
+
 * ***Open for applications***
 
 <br>
