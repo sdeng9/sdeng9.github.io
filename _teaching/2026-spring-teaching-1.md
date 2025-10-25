@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "KU ME 321 - Dynamics Simulations"
 collection: teaching
 type: "Undergradate course"
@@ -14,4 +14,4 @@ location: "Lawrence, KS"
 
 <!-- **Time:** 5:00pm – 7:30pm every Thursday
 
-**Classroom:** Learned Hall 3150, Lawrence, KS -->
+**Classroom:** Learned Hall 3150, Lawrence, KS --> -->
