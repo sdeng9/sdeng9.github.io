@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "KU ME 999 - Independent Investigation"
 collection: teaching
 type: "Graduate course"
@@ -8,4 +8,4 @@ venue: "University of Kansas, Department of Mechanical Engineering"
 location: "Lawrence, KS"
 ---
 
-**Date:** Every semester
+**Date:** Every semester -->
